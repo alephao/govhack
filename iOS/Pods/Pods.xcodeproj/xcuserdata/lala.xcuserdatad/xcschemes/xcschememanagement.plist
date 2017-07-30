@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>Pods-ePrescriptions.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>ReSwift.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>ReSwiftRouter.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>RxSwift.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>95950E91FF0E423DBA1667B3FA7F6A1B</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>9B5B236E932889DCFF164D830250C656</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>C8CF8F4444FE6756FBB4EE0F858E01A7</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>E98030C5D6EC773AD5C9D99E71E1FDCD</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>

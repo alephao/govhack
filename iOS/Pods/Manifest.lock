@@ -1,0 +1,19 @@
+PODS:
+  - ReSwift (4.0.0)
+  - ReSwiftRouter (0.6.0):
+    - ReSwift (~> 4.0.0)
+  - RxSwift (3.6.1)
+
+DEPENDENCIES:
+  - ReSwift
+  - ReSwiftRouter
+  - RxSwift
+
+SPEC CHECKSUMS:
+  ReSwift: f058ef13b46ae5f463f10605ccbbb7fb04424d8d
+  ReSwiftRouter: 81f41b37a5dd1c88e1d3d10a660ff2dcc939ba7c
+  RxSwift: f9de85ea20cd2f7716ee5409fc13523dc638e4e4
+
+PODFILE CHECKSUM: 6757f09736d5d981132f6b0c4eb42455c189cbe6
+
+COCOAPODS: 1.2.1
