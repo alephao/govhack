@@ -1,0 +1,19 @@
+url: 'http://52.63.133.55/bloc/v2.1'
+adminName: Admin_9867_72764819
+adminPassword: '1234'
+adminAddress: ce8bccfcc2777f6458f4fd8661a901a62d90b7cd
+AdminInterface:
+  address: 427e50deb0650e460fda7cd03854a77909d4a873
+users:
+  - username: Supplier1
+    password: '1234'
+    role: SUPPLIER
+  - username: Supplier2
+    password: '1234'
+    role: SUPPLIER
+  - username: Buyer1
+    password: '1234'
+    role: BUYER
+  - username: Buyer2
+    password: '1234'
+    role: BUYER
